@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input, button {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.food {
+  background: #1488cc;
+  background: -webkit-linear-gradient(to right, #2b32b2, #1488cc);
+  background: linear-gradient(to right,#2b32b2,#1488cc);
+  margin: 10px;
+  width: 500px;
+  height: 250px;
+  border: 2px solid;
+}
